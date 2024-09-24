@@ -93,3 +93,13 @@ body{
 .container__descriçao{
     padding: 2em;
 }
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.dispositivo{
+    text-align: center;
+}
